@@ -1,4 +1,4 @@
-# code-verify-and-clean-skill
+# code verify and clean skill
 
 A reusable AI skill for code verification, cleanup, runtime auditing, and security-focused review.
 
